@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1553621469 source:c:\users\bianca\documents\github\calculator_de_buzunar\main.cpp
+	<iostream>
+	<cstring>
+	"calculator.h"
+
+1553621469 source:c:\users\bianca\documents\github\calculator_de_buzunar\calculator.cpp
+	"calculator.h"
+	<iostream>
+	<cmath>
+
+1553621469 c:\users\bianca\documents\github\calculator_de_buzunar\calculator.h
+
